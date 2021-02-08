@@ -8,27 +8,12 @@ function isLeapYear(year) {
 }
 
 
+function checkFlavor() {
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
 
 //front-end logic
+//Don't test this (not expected to write tests for front-end)
 $(document).ready(function() {
 
     $("#icecream").submit(function(event) {
